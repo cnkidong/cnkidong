@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<img algin="right" src="https://github-readme-stats.vercel.app/api?username=cnkidong&show_icons=true&theme=radical"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cnkidong&show_icons=true&theme=radical"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnkidong&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
