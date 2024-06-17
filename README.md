@@ -1,5 +1,4 @@
 # Hi
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cnkidong&show_icons=true&theme=radical"/>
 
 ### I'm donglu
 - 👋 目前从事数据库相关研发工作
